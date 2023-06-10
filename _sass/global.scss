@@ -9,16 +9,25 @@ body {
     font-family: sans-serif;
 }
 
-li {
-    list-style: none;
-}
-
 h1 {
     padding: 30px;
     font-size: 32px;
 }
 
+// TODO: use rel size
+h2 {
+    padding: 20px;
+}
+
 p {
     padding: 16px;
-    // font-size: 32px;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
 }
