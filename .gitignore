@@ -3,3 +3,5 @@ Gemfile.lock
 
 _docs/**
 _site/**
+
+_tmp/**
