@@ -3,6 +3,8 @@ layout: post
 author: Minjie
 ---
 
+## pacman 
+
 ```bash
 # list unused pkgs
 sudo pacman -Qqtd
